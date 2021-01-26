@@ -21,19 +21,19 @@ Tujuan dari pembuatan proyek ini adalah untuk memenuhi tugas kecil I mata kuliah
 Isi repository
     .
     ├── bin                     # **Tidak ada**
-    ├── doc
-    |    └── Laporan-13519021.pdf
-    ├── src                     # Source code 
-    |    └── main.py
+    ├── doc                     # Laporan tugas kecil
+    │   └── Laporan-13519021.pdf       
+    ├── src                     # Source code
+    │   └── main.py   
     ├── test                    # Data uji (8 buah)
-    │    ├── TC1.txt
-    │    ├── TC2.txt
-    │    ├── TC3.txt
-    │    ├── TC4.txt
-    │    ├── TC5.txt
-    │    ├── TC6.txt
-    │    ├── TC7.txt
-    |    └── TC8.txt
+    │   ├── TC1.txt          
+    │   ├── TC2.txt
+    │   ├── TC3.txt
+    │   ├── TC4.txt
+    │   ├── TC5.txt
+    │   ├── TC6.txt
+    │   ├── TC7.txt
+    |   └── TC8.txt
     └── README.md
 
 ## Teknologi
