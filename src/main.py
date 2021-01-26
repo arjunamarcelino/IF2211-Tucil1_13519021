@@ -89,6 +89,8 @@ for p in permutasi(data):
         indx = huruf.index(curr)
         nilai_hasil += int(p[indx])*(10**digit_hasil)
         digit_hasil-=1
+    if (int(p[huruf.index(kata[n_operan][0])])==0):
+            nol = True
 
     if (sum == nilai_hasil) and (not (nol)) :
             found = True
