@@ -104,7 +104,7 @@ print(baca_soal)
 if (not(found)):
     print("\nTidak ada solusi untuk menyelesaikan permasalahan Cryptarithmetic ini")
 else :
-    print("\nSolusi :")
+    print("\nSolusi : \n")
     for i in range (n_operan-1):
         spasi = len(kata[n_operan])-len(kata[i])
         print(' '*spasi+str(nilai_operan[i]))
@@ -115,7 +115,6 @@ else :
     print(nilai_hasil)
     print("\nWaktu eksekusi program : "+ str(end - start),"detik")
     print("\nJumlah tes yang dilakukan untuk menemukan substitusi angka yang benar untuk setiap huruf : ",cek,"kali")
-    print("")
     
 # tutup file
 file_soal.close()
