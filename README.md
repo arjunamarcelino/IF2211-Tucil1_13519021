@@ -18,24 +18,6 @@ Algoritma *brute force* adalah pendekatan yang lempang (*straightforward*) untuk
 ## Info General
 Tujuan dari pembuatan proyek ini adalah untuk memenuhi tugas kecil I mata kuliah IF2211 Strategi Algoritma semester 4 Teknik Informatika Institut Teknologi Bandung tahun ajaran 2020/2021.
 
-Isi repository
-    .
-    ├── bin                     # **Tidak ada**
-    ├── doc                     # Laporan tugas kecil
-    │   └── Laporan-13519021.pdf       
-    ├── src                     # Source code
-    │   └── main.py   
-    ├── test                    # Data uji (8 buah)
-    │   ├── TC1.txt          
-    │   ├── TC2.txt
-    │   ├── TC3.txt
-    │   ├── TC4.txt
-    │   ├── TC5.txt
-    │   ├── TC6.txt
-    │   ├── TC7.txt
-    |   └── TC8.txt
-    └── README.md
-
 ## Teknologi
 Python - version 3.9.0
 
@@ -78,4 +60,6 @@ Selesai
 ## Kontak
 Dibuat oleh:
 Arjuna Marcelino - 13519021@std.stei.itb.ac.id
+13519021
+K01
 Teknik Informatika ITB
